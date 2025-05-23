@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="80%" />
 </p>
@@ -10,16 +8,14 @@
 
 ---
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-
 ### 🧠 About Me
 
-<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 30px; flex-wrap: wrap;">
+<table>
+  <tr>
+    <td>
 
-<div>
+<pre>
 
-```yaml
 name: AmirAli BahramJerdi
 role: Backend Developer
 skills:
@@ -30,6 +26,15 @@ skills:
   - Git & GitHub 🚀
   - Linux 🐧
 fun_fact: I automate everything I get my hands on!
+
+</pre>
+
+  </td>
+  <td>
+    <img src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" width="300px" />
+  </td>
+  </tr>
+</table>
 
 ---
 
