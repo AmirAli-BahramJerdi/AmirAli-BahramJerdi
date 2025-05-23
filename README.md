@@ -21,15 +21,14 @@
 <pre>
 
 name: AmirAli BahramJerdi
-role: Backend Developer
+role: Software Engineer - Full Stack Developer
 skills:
   - Python 🐍
   - Django 💻
-  - Postgres 🛢️
-  - Docker 🐳
+  - Flet 🐟
   - Git & GitHub 🚀
   - Linux 🐧
-fun_fact: I automate everything I get my hands on!
+fun_fact: I automate everything I get my hands on! 🤖
 
 </pre>
 
@@ -45,40 +44,26 @@ fun_fact: I automate everything I get my hands on!
 ### 🚀 Tech Stack
 
 <p align="center">
-
-  <b>Languages & Frameworks:</b><br/>
   <img src="https://skillicons.dev/icons?i=python&theme=dark" width="45" title="Python 🐍" />
-  <img src="https://user-images.githubusercontent.com/74038190/240303679-d09dbe41-79f1-4d5e-8017-0bb2858b6d04.png" width="45" title="Flet" />
+  <img src="https://skillicons.dev/icons?i=flet&theme=dark" width="45" title="Flet" />
   <img src="https://skillicons.dev/icons?i=django&theme=dark" width="45" title="Django 💻" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" title="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" title="C" />
-  <br/><br/>
-
-  <b>Frontend:</b><br/>
   <img src="https://skillicons.dev/icons?i=html&theme=dark" width="45" title="HTML5" />
   <img src="https://skillicons.dev/icons?i=css&theme=dark" width="45" title="CSS3" />
   <img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="45" title="JavaScript" />
-  <br/><br/>
-
-  <b>Databases:</b><br/>
   <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="45" title="PostgreSQL 🛢️" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="45" title="Redis" />
-  <br/><br/>
-
-  <b>Message Broker & Queue:</b><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" title="Redis" />
   <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="45" title="RabbitMQ" />
-  <br/><br/>
-
-  <b>Tools & Servers:</b><br/>
   <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="45" title="Docker 🐳" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45" title="Nginx" />
   <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="45" title="Linux 🐧" />
   <img src="https://skillicons.dev/icons?i=git&theme=dark" width="45" title="Git 🚀" />
   <img src="https://skillicons.dev/icons?i=github&theme=dark" width="45" title="GitHub" />
   <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="45" title="VS Code" />
-  
 </p>
+
 
 ---
 
