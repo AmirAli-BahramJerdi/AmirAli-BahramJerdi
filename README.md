@@ -55,7 +55,7 @@ fun_fact: I automate everything I get my hands on! 🤖
   <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="45" title="PostgreSQL 🛢️" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" title="Redis" />
-  <img src="https://www.meshiq.com/wp-content/webp-express/webp-images/uploads/rabbitmq-700x394.png.webp" width="45" title="RabbitMQ" style="margin-top: 6px;" />
+  <img src="https://www.meshiq.com/wp-content/webp-express/webp-images/uploads/rabbitmq-700x394.png.webp" width="45" title="RabbitMQ" style="margin-bottom: 6px;" />
   <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="45" title="Docker 🐳" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45" title="Nginx" />
   <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="45" title="Linux 🐧" />
@@ -80,8 +80,9 @@ fun_fact: I automate everything I get my hands on! 🤖
 ### 📌 My Status
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300" />
-  <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="300" />
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="250" style="margin-right: 10px;" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="250" style="margin-right: 10px;" />
+  <img src="https://user-images.githubusercontent.com/74038190/212897782-96581536-54a0-4b87-87b4-5e55f95e8a8b.gif" width="250" />
 </p>
 ---
 
@@ -92,7 +93,9 @@ fun_fact: I automate everything I get my hands on! 🤖
   <a href="https://www.linkedin.com/in/amirali-bahramjerdi-a948312ba/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://t.me/amirali_bj"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://www.instagram.com/amirali_bj/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@amiralibahramjerdi"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
+
 
 ---
 
