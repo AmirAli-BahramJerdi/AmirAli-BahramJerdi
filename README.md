@@ -45,7 +45,7 @@ fun_fact: I automate everything I get my hands on! 🤖
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python&theme=dark" width="45" title="Python 🐍" />
-  <img src="https://user-images.githubusercontent.com/74038190/240303679-d09dbe41-79f1-4d5e-8017-0bb2858b6d04.png" width="45" title="Flet" />
+  <img src="https://raw.githubusercontent.com/flet-dev/flet/main/docs/static/img/logo.svg" width="45" title="Flet 🐟" />
   <img src="https://skillicons.dev/icons?i=django&theme=dark" width="45" title="Django 💻" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" title="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" title="C" />
@@ -55,7 +55,7 @@ fun_fact: I automate everything I get my hands on! 🤖
   <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="45" title="PostgreSQL 🛢️" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" title="Redis" />
-  <img src="https://www.rabbitmq.com/img/rabbitmq_logo.svg" width="45" title="RabbitMQ" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg" width="45" title="RabbitMQ" />
   <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="45" title="Docker 🐳" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45" title="Nginx" />
   <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="45" title="Linux 🐧" />
@@ -73,6 +73,14 @@ fun_fact: I automate everything I get my hands on! 🤖
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AmirAli-BahramJerdi&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmirAli-BahramJerdi&theme=radical" />
+</p>
+
+---
+
+### 📌 My Status
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="70%" />
 </p>
 
 ---
