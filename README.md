@@ -14,21 +14,31 @@
 
 ### 🧠 About Me
 
-```yaml
+<table>
+  <tr>
+    <td>
+
+<pre>
+
 name: AmirAli BahramJerdi
-role: Software Engineer - Full Stack Developer 
+role: Backend Developer
 skills:
   - Python 🐍
   - Django 💻
-  - Flet 🐟
+  - Postgres 🛢️
+  - Docker 🐳
   - Git & GitHub 🚀
   - Linux 🐧
-fun_fact: I automate everything I get my hands on! 🤖
-```
+fun_fact: I automate everything I get my hands on!
 
-  </div>
-  <img src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" width="300px" style="margin-left: 20px;" />
-</div>
+</pre>
+
+  </td>
+  <td>
+    <img src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" width="300px" />
+  </td>
+  </tr>
+</table>
 
 ---
 
