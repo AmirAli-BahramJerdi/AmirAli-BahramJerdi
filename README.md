@@ -15,6 +15,10 @@
 
 ### 🧠 About Me
 
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 30px; flex-wrap: wrap;">
+
+<div>
+
 ```yaml
 name: AmirAli BahramJerdi
 role: Backend Developer
@@ -26,12 +30,7 @@ skills:
   - Git & GitHub 🚀
   - Linux 🐧
 fun_fact: I automate everything I get my hands on!
-```
 
-  </div>
-  <img src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" width="300px" />
-  </div>
-  
 ---
 
 ### 🚀 Tech Stack
