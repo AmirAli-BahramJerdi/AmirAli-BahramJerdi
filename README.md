@@ -1,15 +1,25 @@
 
+<!-- 🔥 بنر گیف بالای پروفایل -->
+<img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="100%"/>
+
+<!-- 🖼️ عکس بنر ثابت -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="80%" />
 </p>
 
+<!-- ⌨️ انیمیشن تایپ -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF95&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+AmirAli+BahramJerdi!;Backend+Developer+%F0%9F%94%A5;Python+%26+Django+Lover+%F0%9F%90%8D;Always+Learning...+%F0%9F%93%9A" />
 </p>
 
 ---
 
+<!-- بخش درباره من با تصویر سمت راست -->
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+
 ### 🧠 About Me
+
 ```yaml
 name: AmirAli BahramJerdi
 role: Backend Developer
@@ -22,6 +32,10 @@ skills:
   - Linux 🐧
 fun_fact: I automate everything I get my hands on!
 ```
+
+  </div>
+  <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="300px" />
+</div>
 
 ---
 
