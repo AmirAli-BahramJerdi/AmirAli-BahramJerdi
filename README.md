@@ -55,7 +55,7 @@ fun_fact: I automate everything I get my hands on! 🤖
   <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="45" title="PostgreSQL 🛢️" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" title="Redis" />
-  <img src="https://www.meshiq.com/wp-content/webp-express/webp-images/uploads/rabbitmq-700x394.png.webp" width="45" title="RabbitMQ" />
+  <img src="https://www.meshiq.com/wp-content/webp-express/webp-images/uploads/rabbitmq-700x394.png.webp" width="45" title="RabbitMQ" style="margin-top: 6px;" />
   <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="45" title="Docker 🐳" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45" title="Nginx" />
   <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="45" title="Linux 🐧" />
@@ -80,9 +80,9 @@ fun_fact: I automate everything I get my hands on! 🤖
 ### 📌 My Status
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="70%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="300" />
 </p>
-
 ---
 
 ### 📬 Contact Me
