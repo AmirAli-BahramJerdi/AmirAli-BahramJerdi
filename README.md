@@ -41,7 +41,17 @@ fun_fact: I automate everything I get my hands on!
 ### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,docker,linux,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="45" title="Python 🐍" />
+  <img src="https://skillicons.dev/icons?i=django&theme=dark" width="45" title="Django 💻" />
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="45" title="PostgreSQL 🛢️" />
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="45" title="Docker 🐳" />
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="45" title="Linux 🐧" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="45" title="Git 🚀" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="45" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="45" title="VS Code" />
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="45" title="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="45" title="CSS3" />
+  <img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="45" title="JavaScript" />
 </p>
 
 ---
@@ -58,8 +68,10 @@ fun_fact: I automate everything I get my hands on!
 ### 📬 Contact Me
 
 <p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:amiralibahramjerdi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/amirali-bahramjerdi-a948312ba/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://t.me/amirali_bj"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/amirali_bj/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
